@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585094004655",
+    "project_id": "meal-of8uvy",
+    "storage_bucket": "meal-of8uvy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585094004655:android:55115826fe69fd51f8795a",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__wylRcnD6NGkL-GTpXKaTIstLBzvgnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
