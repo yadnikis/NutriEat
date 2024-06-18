@@ -1,7 +1,5 @@
-# test project
+# NutriEat 
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
